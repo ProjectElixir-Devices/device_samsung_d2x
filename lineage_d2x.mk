@@ -39,9 +39,6 @@ TARGET_SCREEN_WIDTH := 1440
 ## Inherit some common Lineage stuff
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
-## Enable updating of APEXes
-$(call inherit-product, $(SRC_TARGET_DIR)/product/updatable_apex.mk)
-
 ## Device identifier, this must come after all inclusions
 PRODUCT_NAME := lineage_d2x
 PRODUCT_DEVICE := d2x
