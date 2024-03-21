@@ -21,9 +21,6 @@ include vendor/samsung/d2x/BoardConfigVendor.mk
 
 DEVICE_PATH := device/samsung/d2x
 
-## APEX image
-DEXPREOPT_GENERATE_APEX_IMAGE := true
-
 ## Display
 TARGET_SCREEN_DENSITY := 560
 
