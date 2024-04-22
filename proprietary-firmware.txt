@@ -1,4 +1,4 @@
-# Firmware for model SM-N976B - from Samsung package version N976BXXS8HWA1
+# Firmware for model SM-N976B - from Samsung package version N976BXXS9HWHB
 
 cm.bin_SM-N976B
 dqmdbg.img_SM-N976B
@@ -12,7 +12,7 @@ sboot.bin_SM-N976B
 uh.bin_SM-N976B
 up_param.bin_SM-N976B
 
-# Firmware for model SM-N976N - from Samsung package version N976NKSU2HWB1
+# Firmware for model SM-N976N - from Samsung package version N976NKSU2HWH5
 
 cm.bin_SM-N976N
 dqmdbg.img_SM-N976N
