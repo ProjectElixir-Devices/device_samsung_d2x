@@ -30,6 +30,10 @@ PRODUCT_COPY_FILES += \
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
+# Remove unwanted packages
+PRODUCT_PACKAGES += \
+    RmPkgs
+
 # Shims
 PRODUCT_PACKAGES += \
     libshim_sfpex
